@@ -1,0 +1,12 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Resources:
+  myStack:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: https://s3.amazonaws.com/acloudguru-lab-reusable-templates/lab1_ec2.yml
+      TimeoutInMinutes: '60'
+  myStack2:
+    Type: AWS::CloudFormation::Stack
+    Properties:
+      TemplateURL: https://s3.amazonaws.com/acloudguru-lab-reusable-templates/lab1_s3.yml
+      TimeoutInMinutes: '60'
