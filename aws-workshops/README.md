@@ -1,6 +1,6 @@
 # AWS Workshop for CloudFormation
 
-AWS Workshop studio for cloudformation: (AWS Workshops)[https://catalog.workshops.aws/cfn101/en-US]
+AWS Workshop studio for cloudformation: [AWS Workshop](https://catalog.workshops.aws/cfn101/en-US)
 
 ## Workshop Duration and Cost
 
@@ -15,7 +15,7 @@ Depending on the level of your experience with CloudFormation and development, t
 | Intermediate/Templates | This part will take approximately 3 hours |
 | Advanced/Resource Types | This part will take approximately 3 hours |
 
-## Cost
+### Cost
 The AWS CloudFormation templates in this workshop include configuration parameters that you can customize. Some of these settings, such as instance type, will affect the cost of deployment. For cost estimates, see the pricing pages for each AWS service you will be using. Prices are subject to change.
 
 ## Prerequisites
